@@ -11,8 +11,6 @@ Finishing the Coding Bootcamp, I didn't stop studying and decided to take a cour
 
 * [Usage](#usage)
 
-* [License](#license)
-
 * [Contributing](#contributing)
 
 * [Tests](#tests)
@@ -29,6 +27,13 @@ Download Unity 2020.3.33f1 & Unity Hub softwares
 
 ## Usage
 
+SceneAttempt2.unity ↓
+![image](https://user-images.githubusercontent.com/87666809/170138258-0f8d3047-c3d8-4210-b932-f806ec0100aa.png)
+
+EndZone.unity ↓
+![image](https://user-images.githubusercontent.com/87666809/170138124-aa865610-21d6-4d22-8ce9-f296a34219dc.png)
+
+DemoVideoExample↓
 https://drive.google.com/file/d/192J1TCsr51r_0HVZqVUlECTaOzsI5XHa/view?usp=sharing
 
 ## Contributing
