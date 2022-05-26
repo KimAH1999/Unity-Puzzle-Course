@@ -23,6 +23,9 @@ To install necessary dependencies, run the following command:
 
 ```
 Download Unity 2020.3.33f1 & Unity Hub softwares
+
+- https://learn.unity.com/project/2d-game-kit
+- https://unity3d.com/get-unity/download
 ```
 
 ## Usage
