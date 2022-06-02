@@ -3,7 +3,9 @@
 
 ## Description
 
-Finishing the Coding Bootcamp, I didn't stop studying and decided to take a course in San Diego Mesa Community College in game development(MULT120) for fun.
+Finishing the Coding Bootcamp, I didn't stop studying and decided to take a course in San Diego Mesa Community College in game development(MULT120) for fun. This project was intended to get a understanding using Unity, which is completely new to me, but this help me understand how to create a 2D game. Understood how to use and connect variables to work propertly. The section that drove me crazy sometimes would be Unitys software bug, where if to much is happening around the player in the map, it could affect the camera motion follower, animation, or sound to not working propertly. My Proffessor explained the importance on saving work, but sadly he never explained to the class about how Github accepts unity work ! I had two Unity bugs issues and the third start over attempt was the accomplishment, and even if it was bumpy, it was like a fun puzzle game to sort out, create, and understand. 
+
+The flex for me would be my own confidence to knowing that I can now use my skills given to possiably create 2D, 3D, or 2D with 3D graphics using Unity. I am also more confident because after I understand 3D more, I can study how to make Virtual Reality games for fun also using Unity! 🎇
 
 ## Table of Contents 
 
